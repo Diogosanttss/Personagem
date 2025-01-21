@@ -12,3 +12,4 @@ D:\Users\20231170150047\Downloads\Auladepoo\obj\Debug\net8.0\refint\Auladepoo.dl
 D:\Users\20231170150047\Downloads\Auladepoo\obj\Debug\net8.0\Auladepoo.pdb
 D:\Users\20231170150047\Downloads\Auladepoo\obj\Debug\net8.0\Auladepoo.genruntimeconfig.cache
 D:\Users\20231170150047\Downloads\Auladepoo\obj\Debug\net8.0\ref\Auladepoo.dll
+D:\Users\20231170150047\Downloads\Auladepoo\obj\Debug\net8.0\Auladepoo.sourcelink.json
